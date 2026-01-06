@@ -1,0 +1,29 @@
+{
+  "name": "support-paste-image-to-assets-dir",
+  "displayName": "Support Paste Image To Assets Dir",
+  "description": "Paste images into Markdown and save them to a sibling _assets folder.",
+  "version": "0.0.1",
+  "publisher": "zhaoolee",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onLanguage:markdown"
+  ],
+  "main": "./dist/extension.js",
+  "contributes": {},
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -w -p ./"
+  },
+  "packageManager": "pnpm@9.12.0",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/vscode": "^1.82.0",
+    "typescript": "^5.4.5"
+  }
+}
