@@ -1,9 +1,10 @@
 {
-  "name": "support-paste-image-to-assets-dir",
-  "displayName": "Support Paste Image To Assets Dir",
+  "name": "markdown-assets-dir",
+  "displayName": "Markdown Assets Dir",
   "description": "Paste images into Markdown and save them to a sibling _assets folder.",
   "version": "0.0.1",
   "publisher": "zhaoolee",
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.82.0"
   },
