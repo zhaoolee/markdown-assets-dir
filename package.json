@@ -5,6 +5,10 @@
   "version": "0.0.1",
   "publisher": "zhaoolee",
   "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaoolee/markdown-assets-dir"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
