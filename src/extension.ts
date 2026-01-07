@@ -60,7 +60,7 @@ export function activate(context: vscode.ExtensionContext) {
       const mdPath = document.uri.fsPath;
       const mdDir = path.dirname(mdPath);
       const mdBase = path.basename(mdPath, path.extname(mdPath));
-      const assetsDir = path.join(mdDir, `${mdBase}_assets`);
+      const assetsDir = path.join(mdDir, `${mdBase}.assets`);
 
       await fs.mkdir(assetsDir, { recursive: true });
 

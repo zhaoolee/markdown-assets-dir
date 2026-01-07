@@ -1,6 +1,6 @@
 # 让VSCode像Typora一样为每个markdonw文件分文件夹存图片
 
-![](./assets/icon.png)
+![](./README.assets/icon.png)
 
 
 ## 功能介绍
@@ -11,11 +11,7 @@
 
 ## 使用方法
 
-![](./README_assets/5b40df82688a66f9981fa88374de1fb07ddb2fefeccd2820b6abff9101603fc0.gif)
-
-
-
-
+![](./README.assets/107883887202b79b84fa802de8f353a8ed1e29a7888a78217bce0155c486d6c2.gif)
 
 ## 插件市场安装链接
 

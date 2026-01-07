@@ -2,9 +2,9 @@
   "name": "markdown-assets-dir",
   "displayName": "Markdown Assets Dir",
   "description": "Paste images into Markdown and save them to a sibling _assets folder.",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "publisher": "zhaoolee",
-  "icon": "assets/icon.png",
+  "icon": "README.assets/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/zhaoolee/markdown-assets-dir"
